@@ -9,9 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Dotmim.Sync.MariaDB" Version="0.9.8-beta-1049" />
-    <PackageReference Include="Dotmim.Sync.Sqlite" Version="0.9.8-beta-1049" />
-    <PackageReference Include="Dotmim.Sync.Web.Client" Version="0.9.8-beta-1049" />
+    <PackageReference Include="Dotmim.Sync.MariaDB" Version="0.9.8-beta-1361" />
+    <PackageReference Include="Dotmim.Sync.Sqlite" Version="0.9.8-beta-1361" />
+    <PackageReference Include="Dotmim.Sync.Web.Client" Version="0.9.8-beta-1361" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.2">
       <PrivateAssets>all</PrivateAssets>
